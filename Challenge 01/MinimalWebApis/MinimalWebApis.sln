@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimalWebApis", "MinimalWebApis\MinimalWebApis.csproj", "{3BA3CCF3-3EFE-4D1D-AB72-EC8D431C372F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChallengeTests", "ChallengeTests\ChallengeTests.csproj", "{58264054-10F3-4B39-892A-6F410518DEEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BA3CCF3-3EFE-4D1D-AB72-EC8D431C372F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BA3CCF3-3EFE-4D1D-AB72-EC8D431C372F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BA3CCF3-3EFE-4D1D-AB72-EC8D431C372F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BA3CCF3-3EFE-4D1D-AB72-EC8D431C372F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58264054-10F3-4B39-892A-6F410518DEEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58264054-10F3-4B39-892A-6F410518DEEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58264054-10F3-4B39-892A-6F410518DEEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58264054-10F3-4B39-892A-6F410518DEEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED235202-18A3-4D20-A17F-444542D5DE27}
+	EndGlobalSection
+EndGlobal
